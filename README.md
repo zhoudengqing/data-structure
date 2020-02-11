@@ -1,2 +1,2 @@
-# data_structure
+# data-structure
 数据结构
